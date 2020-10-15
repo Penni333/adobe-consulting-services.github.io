@@ -9,7 +9,7 @@ initial-release: 3.13.0
 
 Asset Folder Creator that helps quickly build complex Asset Folder hierarchies in AEM. 
 
-Asset Folder Creator leverages the power and flexibility of Excel, to put the power of Asset Folder architecture definition in the hands of the project's Content Architect. Asset Golder hierarchies can be modeled in Excel, reviewed, and quickly deployed to AEM, removing the need to manually create and name folders by hand in AEM Assets.
+Asset Folder Creator leverages the power and flexibility of Excel, to put the power of Asset Folder architecture definition in the hands of the project's Content Architect. Asset Folder hierarchies can be modeled in Excel, reviewed, and quickly deployed to AEM, removing the need to manually create and name folders by hand in AEM Assets.
 
 ![Asset Folder Creator](./images/asset-folder-creator.png)
 
